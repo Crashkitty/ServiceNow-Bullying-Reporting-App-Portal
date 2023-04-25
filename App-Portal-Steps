@@ -1,0 +1,18 @@
+Bullying ServiceNow app and portal.
+
+
+Define the requirements: Identify the features and functionalities you need in your ServiceNow portal and app. Make a list of the key requirements, such as the ability to report bullying incidents, upload evidence, and track the status of the reports.
+
+Create the portal and app: Once you have defined the requirements, you can create the ServiceNow portal and app using the ServiceNow platform. You can customize the portal's look and feel, as well as the app's user interface, to match our branding and style.
+
+Implement the reporting functionality: Implement the ability to report bullying incidents by creating a form in the app. The form should allow users to provide details of the incident, upload evidence (supported statement, photos, video) and submit the report.
+
+Set up the tracking system: Implement a tracking system that allows users to check the status of their reports. The system should provide real-time updates on the progress of the report, such as when it was received, when it was assigned to any responders, and when it was resolved.
+
+Define the workflow: Define the workflow for handling bullying reports. This should include how reports are triaged, how cases are assigned to case workers, and how cases are resolved.
+
+Test the portal and app: Test the ServiceNow portal and app thoroughly to ensure that it meets your organization's requirements and works as expected.
+
+Launch the portal and app: Once you are satisfied that the portal and app are working correctly, launch them to your organization's users. Provide training and support to help users understand how to use the portal and app.
+
+Monitor and update: Monitor the portal and app to ensure that it is meeting your organization's needs. Update the portal and app as necessary to address any issues or to add new features and functionalities.
